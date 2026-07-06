@@ -26,8 +26,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 100,
-          "currentEquation": "100"
+          "ioValue": 100
         }
       ]
     },
@@ -39,13 +38,11 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 100,
-          "currentEquation": "100"
+          "ioValue": 100
         },
         {
           "name": "y length",
-          "ioValue": 150,
-          "currentEquation": "150"
+          "ioValue": 150
         }
       ]
     },
@@ -102,13 +99,11 @@
         },
         {
           "name": "x-axis degrees",
-          "ioValue": 0,
-          "currentEquation": "0"
+          "ioValue": 0
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 20,
-          "currentEquation": "20"
+          "ioValue": 20
         },
         {
           "name": "z-axis degrees",
@@ -180,8 +175,7 @@
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 80,
-          "currentEquation": "80"
+          "ioValue": 80
         },
         {
           "name": "z-axis degrees",
@@ -511,7 +505,7 @@
         },
         {
           "name": "Shape 13",
-          "ioValue": null
+          "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
       "closedSelection": 0
@@ -532,8 +526,7 @@
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 100,
-          "currentEquation": "100"
+          "ioValue": 100
         },
         {
           "name": "z-axis degrees",
